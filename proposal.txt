@@ -1,0 +1,22 @@
+# str increases phys damage
+# dex increases dodge chance
+# int increases spell damage
+# vit increase max health
+
+# warrior
+# ranger
+# wizard (v2 CLOWN)
+
+# v2 curses ui?
+
+# we need the following commands for the player:
+    look - returns the current room's description, and lists any items in view, and available paths
+    move - move on a given path from the current room
+    help - display help
+    inventory - lists any items in inventory
+
+Start game (v2 add continue game)
+Character creation
+    Name, Class, RANDOM STATS (v2 add choosing stats?)
+Load map/ Gen map?
+tell player about surrounding and commands
